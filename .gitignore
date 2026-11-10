@@ -1,0 +1,7 @@
+# Obsidian's per-machine workspace state (don't version it)
+.obsidian/workspace
+.obsidian/workspace.json
+
+# OS cruft
+.DS_Store
+Thumbs.db
