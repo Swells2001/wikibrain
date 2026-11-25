@@ -35,6 +35,7 @@ government.
 - [[Tariff]]
 - [[Quota Rent]]
 - [[Small Open Economy]]
+- [[Ikigai Project and Coursework]] — scarce rink ice as a quota-like cap
 
 ## Sources
 - [[2026-11-05-intl-econ-import-quotas]]

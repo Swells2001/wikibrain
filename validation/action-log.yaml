@@ -1,0 +1,62 @@
+# Action log. One entry per action. Ids are never reused.
+# status: open | done | partly done | not done | won't do
+# how: what I did, and where the proof is (in my own words)
+# why_not: required if the status is not done or won't do
+# Only the student changes status, how, and why_not. The skill never marks an action done.
+actions:
+  - id: A-01
+    text: "Talk to three more hockey parents about what they have already paid for and stopped paying for."
+    created_in_run: 1
+    status: open
+    how: ""
+    why_not: ""
+    updated: 2026-11-11
+  - id: A-02
+    text: "Get a real price per hour for ice and for synthetic-ice space, including off-peak hours."
+    created_in_run: 1
+    status: open
+    how: ""
+    why_not: ""
+    updated: 2026-11-11
+  - id: A-03
+    text: "Find out whether an outside operator may run paid sessions at Idaho IceWorld."
+    created_in_run: 1
+    status: open
+    how: ""
+    why_not: ""
+    updated: 2026-11-11
+  - id: A-04
+    text: "Build a break-even sheet with real costs in place of the $120 illustration."
+    created_in_run: 1
+    status: open
+    how: ""
+    why_not: ""
+    updated: 2026-11-11
+  - id: A-05
+    text: "Write a one-page checklist of what a coach must have before running a session."
+    created_in_run: 1
+    status: open
+    how: ""
+    why_not: ""
+    updated: 2026-11-11
+  - id: A-06
+    text: "Write a sample monthly progress report and show it to a parent."
+    created_in_run: 1
+    status: open
+    how: ""
+    why_not: ""
+    updated: 2026-11-11
+  - id: A-07
+    text: "Ask for a commitment, not an opinion, for a four-session pilot."
+    created_in_run: 1
+    status: open
+    how: ""
+    why_not: ""
+    updated: 2026-11-11
+  - id: A-08
+    text: "Learn how Next Level Hockey's semi-private training works and what it costs."
+    created_in_run: 1
+    status: open
+    how: ""
+    why_not: ""
+    updated: 2026-11-11

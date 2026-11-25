@@ -37,6 +37,7 @@ already believe.
 - [[Noah]]
 - [[Persistent Wiki]]
 - [[AI Stress Test]] — a real instance of the dueling-models idea
+- [[Ikigai Project and Coursework]] — these ideas applied in the Ikigai project
 
 ## Sources
 - [[2026-11-05-itm-370-week-9-notes]]

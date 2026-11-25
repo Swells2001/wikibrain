@@ -1,0 +1,35 @@
+# Run record. All scores are AI-assisted estimates.
+run: 1
+date: 2026-11-11
+trigger: "baseline first run"
+scores:
+  six_hats: 62
+  blue_ocean: 57
+  swot: 61
+  jtbd: 60
+  moscow: 55
+score_detail:  # Evidence, Specificity, Completeness, Honesty, Actionability (20 each)
+  six_hats: [6, 12, 16, 16, 12]
+  blue_ocean: [6, 12, 15, 14, 10]
+  swot: [6, 11, 15, 16, 13]
+  jtbd: [7, 12, 15, 14, 12]
+  moscow: [4, 11, 15, 13, 12]
+overall: 59
+evidence_count: 1
+open_risks: 6
+decisions_changed: 0
+top_risks:
+  - "Ice access: Boise has two rinks and Idaho IceWorld has an exclusive partnership with Boise Skills Academy; outside operators may need approval."
+  - "Unit economics: real costs for space, coach pay, insurance, and fees are unknown, so the $25-$35 price is untested."
+  - "Thin evidence: one interview with a parent who already knows Solomon; interest is not a commitment to pay."
+other_risks:
+  - "Next Level Hockey already offers semi-private training (red-ocean risk)."
+  - "No coaches, credentials, insurance, or reviews yet."
+  - "Boise Skills Academy could add small groups."
+next_actions:
+  - "A-01: Talk to three more hockey parents about what they have already paid for and stopped paying for."
+  - "A-02: Get a real price per hour for ice and for synthetic-ice space, including off-peak hours."
+  - "A-03: Find out whether an outside operator may run paid sessions at Idaho IceWorld."
+  - "A-04: Build a break-even sheet with real costs in place of the $120 illustration."
+  - "A-05: Write a one-page checklist of what a coach must have before running a session."
+notes: "Baseline. Evidence scores are low on purpose: one real conversation and no tests. evidence_count counts the Robin interview only; desk research and the AI stress test do not count. decisions_changed is 0 because there is no earlier run. Framework outputs are in run-01-frameworks.md."

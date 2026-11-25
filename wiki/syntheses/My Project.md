@@ -39,3 +39,5 @@ parents trust, and regular progress communication.
 
 ## Related
 - [[Career & Skills Hub]]
+- [[Ikigai Project and Coursework]] — how the project ties to ITM 370 and econ
+- [[What-I-Built-And-Why]] — recap of the whole build

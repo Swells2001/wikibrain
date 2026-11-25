@@ -37,3 +37,11 @@ header. Kiro writes these; you read them.
 ## [2026-11-05] ingest | Ikigai Part 3 — Validate (stub)
 - Source: raw/2026-11-05-ikigai-3-validate.md
 - Created: [[Ikigai Part 3 — Validate]] (placeholder; awaiting Validated Build Brief)
+
+## [2026-11-05] query | How does my Ikigai project connect to my other classes?
+- Filed as: [[Ikigai Project and Coursework]]
+- Updated: [[My Project]], [[Expert in the Loop]], [[Import Quota]], [[Quota Rent]]
+
+## [2026-11-05] synthesis | What I Built And Why
+- Created: [[What-I-Built-And-Why]]
+- Updated: [[My Project]]

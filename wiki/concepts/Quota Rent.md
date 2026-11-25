@@ -24,6 +24,7 @@ whoever holds the right to import at the world price captures the difference.
 - [[Import Quota]]
 - [[Tariff]]
 - [[Small Open Economy]]
+- [[Ikigai Project and Coursework]] — the exclusive rink deal as a rent-earning license
 
 ## Sources
 - [[2026-11-05-intl-econ-import-quotas]]

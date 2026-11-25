@@ -1,0 +1,26 @@
+[
+  {
+    "run": 1,
+    "date": "2026-11-11",
+    "trigger": "baseline first run",
+    "scores": {
+      "six_hats": 62,
+      "blue_ocean": 57,
+      "swot": 61,
+      "jtbd": 60,
+      "moscow": 55
+    },
+    "overall": 59,
+    "evidence_count": 1,
+    "open_risks": 6,
+    "decisions_changed": 0,
+    "top_risks": [
+      "Ice access: Boise has two rinks and Idaho IceWorld has an exclusive partnership with Boise Skills Academy; outside operators may need approval.",
+      "Unit economics: real costs for space, coach pay, insurance, and fees are unknown, so the $25-$35 price is untested.",
+      "Thin evidence: one interview with a parent who already knows Solomon; interest is not a commitment to pay."
+    ],
+    "next_actions": ["A-01", "A-02", "A-03", "A-04", "A-05"],
+    "what_changed": "Baseline run. Nothing to compare with yet.",
+    "notes": "Evidence scores are low on purpose: one real conversation and no tests."
+  }
+]
